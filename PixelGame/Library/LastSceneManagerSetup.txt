@@ -1,0 +1,4 @@
+sceneSetups:
+- path: S:/Animation/GAM403/Unity Projects/Dajana Borowiec/Dajana/Assets/scena.unity
+  isLoaded: 1
+  isActive: 1
